@@ -16,4 +16,3 @@ Landing page, for desktop 1440px and mobile 375px screen version.
 
 - Live Site URL:
   -> https://landing-page-nadiafr.netlify.app
-# landing-page
